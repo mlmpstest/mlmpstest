@@ -3,5 +3,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "academic" # the name of your site, e.g. ACME Corp.
 description: "a Jekyll theme for academia"
 theme: academic-jekyll-theme
-
-$ bundle
